@@ -1,3 +1,6 @@
 print("Hello World!")
 print("How are you today?")
-print("This line is for creating merge conflict")
+#print("No merge conflict yet")
+#print("This line is for creating merge conflict")
+print("For resolving Merge conflict")
+
